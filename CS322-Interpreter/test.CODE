@@ -1,0 +1,5 @@
+BEGIN CODE 
+INT a = b = c =2, d
+a = b = c= 4
+DISPLAY: a & b & c 
+END CODE
